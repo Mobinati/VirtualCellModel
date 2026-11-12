@@ -61,7 +61,3 @@ For more information about the software, its structure, and its available featur
 ## References
 
 The original Virtual Cell Model software and its documentation are associated with the work of Dr. Ali Farnudi and collaborators.
-=======
-# VirtualCellModel
-The Virtual Cell Model (VCM) is a molecular dynamics simulation software package
->>>>>>> 9ea4c189365eb9e007700fd30d2cad32f40010d8
